@@ -1,0 +1,11 @@
+{
+  "accentColor": "#ff006f",
+  "theme": "obsidian",
+  "interfaceFontFamily": "FranklinGothic URW",
+  "monospaceFontFamily": "PT Mono",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "translucency": false,
+  "cssTheme": "Obsidianite",
+  "textFontFamily": "FranklinGothic URW"
+}

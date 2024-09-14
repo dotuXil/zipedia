@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "907b186bfb8370eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "80dfd29f3f7c4c97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d3414f50bed2bc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 POIs/Xenoi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7731665d6807fd90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Meta/Music Direction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c63a25b4cf549c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "707ebaf11dffd254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51f1a81a11d1c59b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2786ceca7cd5359",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14c0ff34df6b6c54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "right": {
+    "id": "96ff32d8f4d0bb6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca666164d8421818",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f3de3bb130abede",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Meta/Music Direction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3056a475c8aaa018",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 Meta/Music Direction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b7787f8b9bf66e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "597e94959c3fbd79",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Meta/Music Direction.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal headlines only": false,
+      "privacy-glasses:Reveal all": false
+    }
+  },
+  "active": "7731665d6807fd90",
+  "lastOpenFiles": [
+    "01 Chapters/00 Prelude.canvas",
+    "01 Chapters/01 Deep Soa Retrieval.canvas",
+    "02 Zenith Information Project/02 Zenith Information Project.md",
+    "02 Zenith Information Project/Department of Combat Technology.md",
+    "02 Zenith Information Project/Department of Ecology.md",
+    "02 Zenith Information Project/Department of Robotics.md",
+    "02 Zenith Information Project/Department of Space Exploration.md",
+    "02 Zenith Information Project/Department of Uncategorized Phenomena.md",
+    "03 Locations/Soa.md",
+    "03 Locations/Asola.md",
+    "03 Locations/Xisal.md",
+    "00 Meta/00 Introduction.md",
+    "Media/s-14.png",
+    "Media/00 Introduction-20240914013332180.webp",
+    "00 Meta/01 Differences from Earth.md",
+    "04 POIs/Gridwalker (ZIU-108).md",
+    "04 POIs/Chromas.md",
+    "04 POIs/Droplet (ZIU-105).md",
+    "00 Meta/Music Direction.md",
+    "00 Meta/Art Direction.md",
+    "04 POIs/Xenoi.md",
+    "04 POIs/Vela.md",
+    "04 POIs/Sissid.md",
+    "Media/Soa_Cover.png",
+    "Media/grid 1.png",
+    "Media/Droplet.png",
+    "Media/2024-09-11 2132.mp3",
+    "Media/08 Enter Nil.mp3",
+    "04 POIs/04 POIs.md",
+    "Excalidraw/Drawing 2024-09-14 00.16.59.excalidraw.md",
+    "Whiteboard/Drawing 2024-09-14 00.14.43.excalidraw.md",
+    "Excalidraw",
+    "04 POIs/Stardip.md",
+    "POIs/Untitled",
+    "Untitled",
+    "Meta/Meta.md",
+    "00 Meta",
+    "02 Zenith Information Project",
+    "2024-09-13.md",
+    "Media",
+    "01 Chapters",
+    "03 Locations"
+  ]
+}

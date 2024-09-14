@@ -1,0 +1,119 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "tIzIorNMKsHNny33baQ36",
+      "name": "Pure Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "7W-ft48N0HSqeu0N-V5kR",
+      "name": "Stardip Magenta",
+      "value": "#ff0066"
+    },
+    {
+      "id": "5E1g-jzpLQ8WS29f3R_Jm",
+      "name": "Xenoi Magenta",
+      "value": "#ff0088"
+    },
+    {
+      "id": "ngw8WiXq4fCjDmE5tKgP-",
+      "name": "Pure Magenta",
+      "value": "#ff00ff"
+    },
+    {
+      "id": "rup8XcdquTGMMqwTiMJja",
+      "name": "Warm Violet",
+      "value": "#aa1ddd"
+    },
+    {
+      "id": "VZAkSSBNFkEb_Gds63d7J",
+      "name": "Electric Violet",
+      "value": "#8000ff"
+    },
+    {
+      "id": "ZEbCZ7Y6p4rOvKfNs8L3v",
+      "name": "Deep Violet",
+      "value": "#4a2aa2"
+    },
+    {
+      "id": "a-VMvzeX5Csf4JHgGJbll",
+      "name": "Chromas Blue",
+      "value": "#4a0df2"
+    },
+    {
+      "id": "OV-CD8SpKdYJOG_-pNDop",
+      "name": "Pure Blue",
+      "value": "#0000ff"
+    },
+    {
+      "id": "0qZF2FK_ttL4KzLT51r0Z",
+      "name": "",
+      "value": "#0055ff"
+    },
+    {
+      "id": "Lwo8KoCmH03bhuhhwPoLc",
+      "name": "Vivid Blue",
+      "value": "#0018a8"
+    },
+    {
+      "id": "raF_BpaWRZnXkrzV-9ei-",
+      "name": "",
+      "value": "#ffffff"
+    },
+    {
+      "id": "uH1kC07aCDGrzfLZV3fBR",
+      "name": "",
+      "value": "#ffffff"
+    },
+    {
+      "id": "o5znnVwhkOySa1ZW60mFF",
+      "name": "",
+      "value": "#ffffff"
+    },
+    {
+      "id": "BW7mT1ktEtbI0lT5pro9S",
+      "name": "",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "04 POIs/Chromas.md",
+      "color": "a-VMvzeX5Csf4JHgGJbll"
+    },
+    {
+      "path": "04 POIs/Droplet (ZIU-105).md",
+      "color": "0qZF2FK_ttL4KzLT51r0Z"
+    },
+    {
+      "path": "03 Locations/Xisal.md",
+      "color": "tIzIorNMKsHNny33baQ36"
+    },
+    {
+      "path": "03 Locations/Soa.md",
+      "color": "0qZF2FK_ttL4KzLT51r0Z"
+    },
+    {
+      "path": "04 POIs/Xenoi.md",
+      "color": "5E1g-jzpLQ8WS29f3R_Jm"
+    },
+    {
+      "path": "04 POIs/Stardip.md",
+      "color": "7W-ft48N0HSqeu0N-V5kR"
+    },
+    {
+      "path": "02 Zenith Information Project/Department of Ecology.md",
+      "color": "OV-CD8SpKdYJOG_-pNDop"
+    },
+    {
+      "path": "02 Zenith Information Project/Department of Space Exploration.md",
+      "color": "ZEbCZ7Y6p4rOvKfNs8L3v"
+    },
+    {
+      "path": "02 Zenith Information Project/Department of Uncategorized Phenomena.md",
+      "color": "ngw8WiXq4fCjDmE5tKgP-"
+    }
+  ]
+}
