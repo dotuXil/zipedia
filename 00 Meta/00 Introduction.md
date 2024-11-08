@@ -1,4 +1,5 @@
-![[s-14.png|706]]
+![[00 Introduction-20241012031233256.webp|309]]
+(Don't mind the vtuber styled logo, I don't have a legitimate one yet...)
 > [!note] Introduction Letter
 > Welcome.
 > 
@@ -18,6 +19,6 @@
 Welcome to what I call Zipedia, aka the dotuXil textbook, or the dotuXil Cinematic Universe (dXCU) Comprehensive Guide (please don't call it that). It's where I store all my ideas for the silly world that goes on in my head. Usually when I infodump in updates I don't like providing context, so this guide is intended to fill in the gaps.
 That being said this is also something I'd like to tell a cohesive story with, so there's planning for that too.
 
-> [!quote]
+> [!quote] [[Gridwalker (ZIU-108)]]
 > I'd expected I would wake up alone on some kind of uninhabitable planet- If I even woke up at all- but here I was, surrounded by people that were most definitely Asolian, in the first waking moments I had ever since my sendoff.
 

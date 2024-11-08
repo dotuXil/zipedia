@@ -1,7 +1,6 @@
 [
   "obsidian-file-color",
   "folder-notes",
-  "image-converter",
   "image-captions",
   "obsidian-math-plus",
   "surfing",
@@ -9,5 +8,7 @@
   "obsidian-excalidraw-plugin",
   "privacy-glasses",
   "multi-column-markdown",
-  "obsidian-columns"
+  "obsidian-columns",
+  "obsidian-style-settings",
+  "image-converter"
 ]

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a16f28685c05cf1b","type":"file","file":"02 Zenith Information Project/Department of Robotics.md","x":-620,"y":-380,"width":400,"height":400},
+		{"id":"11cfb69e0e79a350","x":-620,"y":-460,"width":400,"height":42,"type":"file","file":"Media/Enter Nil (Alternate Version).mp3"},
+		{"id":"b42c33af01f0ace4","type":"file","file":"04 POIs/Xenoi.md","x":-620,"y":-900,"width":400,"height":400},
+		{"id":"74ffe9def4a09423","type":"file","file":"04 POIs/Stardip.md","x":-160,"y":-580,"width":400,"height":400}
+	],
+	"edges":[]
+}

@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "80dfd29f3f7c4c97",
+        "id": "62e84d13bbbc5e43",
         "type": "tabs",
         "children": [
           {
-            "id": "2d3414f50bed2bc3",
+            "id": "58d783347ea97eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Zenith Information Project/Psychoprints.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psychoprints"
+            }
+          },
+          {
+            "id": "e276be4b61d2df09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,23 +30,53 @@
                 "file": "04 POIs/Xenoi.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Xenoi"
             }
           },
           {
-            "id": "7731665d6807fd90",
+            "id": "1dbb764e9e506f37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Meta/Music Direction.md",
+                "file": "02 Zenith Information Project/The Pool.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The Pool"
+            }
+          },
+          {
+            "id": "c6ac25dd1e0e1e8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Zenith Information Project/02 Zenith Information Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 Zenith Information Project"
+            }
+          },
+          {
+            "id": "1f78b3657c992ec0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -52,7 +96,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +113,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,14 +123,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 292.5042381286621
   },
   "right": {
     "id": "96ff32d8f4d0bb6d",
@@ -98,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Meta/Music Direction.md",
+                "file": "02 Zenith Information Project/02 Zenith Information Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +157,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 02 Zenith Information Project"
             }
           },
           {
@@ -115,10 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Meta/Music Direction.md",
+                "file": "02 Zenith Information Project/02 Zenith Information Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 02 Zenith Information Project"
             }
           },
           {
@@ -129,7 +184,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Meta/Music Direction.md"
-              }
+                "file": "02 Zenith Information Project/02 Zenith Information Project.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 02 Zenith Information Project"
             }
           }
         ]
@@ -164,49 +223,59 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "7731665d6807fd90",
+  "active": "1f78b3657c992ec0",
   "lastOpenFiles": [
-    "01 Chapters/00 Prelude.canvas",
-    "01 Chapters/01 Deep Soa Retrieval.canvas",
-    "02 Zenith Information Project/02 Zenith Information Project.md",
-    "02 Zenith Information Project/Department of Combat Technology.md",
-    "02 Zenith Information Project/Department of Ecology.md",
-    "02 Zenith Information Project/Department of Robotics.md",
-    "02 Zenith Information Project/Department of Space Exploration.md",
-    "02 Zenith Information Project/Department of Uncategorized Phenomena.md",
-    "03 Locations/Soa.md",
-    "03 Locations/Asola.md",
-    "03 Locations/Xisal.md",
-    "00 Meta/00 Introduction.md",
-    "Media/s-14.png",
-    "Media/00 Introduction-20240914013332180.webp",
-    "00 Meta/01 Differences from Earth.md",
-    "04 POIs/Gridwalker (ZIU-108).md",
+    "02 Zenith Information Project/The Pool.md",
+    "The Pool-20241025144912164.webp",
+    "02 Zenith Information Project/Element.md",
     "04 POIs/Chromas.md",
-    "04 POIs/Droplet (ZIU-105).md",
-    "00 Meta/Music Direction.md",
-    "00 Meta/Art Direction.md",
+    "Media/Droplet.png",
+    "Media/s-14.png",
+    "Media/Xenoi-20241024111840500.webp",
+    "Media/Xenoi-20241024085349433.webp",
+    "01 Chapters/Disc 1/01 Prelude.canvas",
+    "02 Zenith Information Project/Department of Uncategorized Phenomena.md",
+    "02 Zenith Information Project/Heather Campus.md",
+    "02 Zenith Information Project/Psychoprints.md",
+    "02 Zenith Information Project/Xenoi Project.md",
+    "00 Meta/Game Mechanics.md",
+    "00 Meta/00 Introduction.md",
     "04 POIs/Xenoi.md",
     "04 POIs/Vela.md",
-    "04 POIs/Sissid.md",
-    "Media/Soa_Cover.png",
-    "Media/grid 1.png",
-    "Media/Droplet.png",
-    "Media/2024-09-11 2132.mp3",
-    "Media/08 Enter Nil.mp3",
-    "04 POIs/04 POIs.md",
-    "Excalidraw/Drawing 2024-09-14 00.16.59.excalidraw.md",
-    "Whiteboard/Drawing 2024-09-14 00.14.43.excalidraw.md",
-    "Excalidraw",
+    "04 POIs/Template.md",
     "04 POIs/Stardip.md",
+    "04 POIs/Sissid.md",
+    "04 POIs/Gridwalker (ZIU-108).md",
+    "04 POIs/Droplet (ZIU-105).md",
+    "depa.md",
+    "02 Zenith Information Project/Department of Combat Technology.md",
+    "02 Zenith Information Project/Department of Robotics.md",
+    "02 Zenith Information Project/Department of Space Exploration.md",
+    "02 Zenith Information Project/Department of Psychology.md",
+    "02 Zenith Information Project/Department of Ecology.md",
+    "01 Chapters/Disc 1/Disc 1.canvas",
+    "01 Chapters/Disc 1/02 Deep Soa Retrieval.canvas",
+    "01 Chapters/Disc 1/04.canvas",
+    "Media/Xenoi-20241024111732636.webp",
+    "Media/Xenoi-20241024112717470.webp",
+    "Media/00 Introduction-20241012031233256.webp",
+    "03 Locations/Xisal.md",
+    "03 Locations/Soa.md",
+    "03 Locations/Asola.md",
+    "Media/2024-09-11 2132.mp3",
+    "Media/grid 1.png",
+    "Xenoi-20241024111809846.webp",
+    "Untitled.canvas",
+    "Media/Enter Nil (Alternate Version).mp3",
+    "01 Chapters/Disc 1/05.canvas",
+    "01 Chapters/Disc 1/03.canvas",
+    "Media/08 Enter Nil.mp3",
+    "01 Chapters/Disc 1",
+    "Excalidraw",
     "POIs/Untitled",
-    "Untitled",
-    "Meta/Meta.md",
     "00 Meta",
     "02 Zenith Information Project",
-    "2024-09-13.md",
     "Media",
-    "01 Chapters",
-    "03 Locations"
+    "01 Chapters"
   ]
 }

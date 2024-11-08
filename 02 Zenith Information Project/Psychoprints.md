@@ -1,0 +1,4 @@
+**Psychoprints** are, in essence, a mental snapshot of a person (or part of one) at a certain point in time. Normally they take the appearance of an identification card, however [[Xenoi]] has claimed that [[Xisal#The Eyes|the Eyes of Xisal]] view Psychoprints as playing cards during combat. Note that Psychoprints are always 2.5x3.5in. 
+They were originally developed by the [[Department of Psychology]] as a way to ensure ZIUs don't experience dysphoria upon body transfer, however they were later adopted by the [[Department of Combat Technology#Department of Security Merge|Department of Security]] for its potential use for identification, and adapted by the [[Department of Combat Technology]] to be able to be used in combat.
+There are two kinds of prints; Innate, and Extract. Innate Psychoprints are sourced and used directly by a person, while Extract Psychoprints 
+In combat, they are comparable to magic spells that can be manifested using Element.

@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"6456b1fea7a6bdfd","type":"group","x":-1340,"y":-2920,"width":2220,"height":2560,"color":"#243170","label":"relations"},
+		{"id":"265897b0ac459347","type":"group","x":-3040,"y":-2920,"width":1640,"height":1840,"label":"moodboard"},
+		{"id":"c5700f3337702e56","type":"group","x":960,"y":-2920,"width":2080,"height":1120,"label":"timeline"},
+		{"id":"e791458a5908f160","type":"group","x":-80,"y":-1300,"width":960,"height":940,"color":"#ff6600","label":"Playable Team"},
+		{"id":"2d2e9b8d06e7d8ce","type":"file","file":"02 Zenith Information Project/Xenoi Project.md","x":-1340,"y":-1090,"width":400,"height":120},
+		{"id":"e9e2544f0bd4ab31","type":"text","text":"notes:\n","x":960,"y":-1760,"width":470,"height":366},
+		{"id":"fade3fdbb9f2d469","type":"file","file":"02 Zenith Information Project/Department of Combat Technology.md","x":400,"y":-2520,"width":400,"height":400,"color":"5"},
+		{"id":"c0af010d0a18d62a","type":"file","file":"03 Locations/Xisal.md","x":-940,"y":-2920,"width":400,"height":400,"color":"1"},
+		{"id":"8bb5ed3c032dcb67","type":"file","file":"02 Zenith Information Project/Department of Uncategorized Phenomena.md","x":-180,"y":-2440,"width":400,"height":400,"color":"3"},
+		{"id":"f527f20214d6632e","type":"file","file":"02 Zenith Information Project/Department of Space Exploration.md","x":-180,"y":-1920,"width":400,"height":400,"color":"6"},
+		{"id":"f2f3da1a7e42cfa6","type":"file","file":"03 Locations/Asola.md","x":-940,"y":-1608,"width":400,"height":400,"color":"4"},
+		{"id":"966c08c5f20e7029","type":"file","file":"Media/l_1.png","x":-940,"y":-1760,"width":400,"height":125},
+		{"id":"b7f9328abacedda2","type":"text","text":"long cool intro montage that tries to hint at a bunch of things.\n- [[Droplet (ZIU-105)|Droplet]] appearances, drowning\n- [[Xisal]]\n- [[Xenoi]] in wires\n- Voices talking\n- the grid","x":1000,"y":-2880,"width":460,"height":300},
+		{"id":"d3ab0fc582600e5d","type":"file","file":"02 Zenith Information Project/Department of Robotics.md","x":-480,"y":-1300,"width":440,"height":420,"color":"1"},
+		{"id":"1166818b14c8c7ee","type":"file","file":"04 POIs/Sissid.md","x":420,"y":-840,"width":380,"height":400,"color":"5"},
+		{"id":"6534efbf4d500ab7","type":"text","text":"","x":2720,"y":-1920,"width":250,"height":60},
+		{"id":"e0714e8b32235343","type":"text","text":"wake up","x":1000,"y":-2550,"width":250,"height":60},
+		{"id":"b00e117983e82f7b","type":"file","file":"04 POIs/Xenoi.md","x":-1340,"y":-960,"width":400,"height":400,"color":"#ff00f7"},
+		{"id":"f30e75a911d2c7f0","type":"file","file":"04 POIs/Stardip.md","x":-840,"y":-760,"width":400,"height":400,"color":"#ff007b"},
+		{"id":"bd32a0490749ef86","type":"file","file":"04 POIs/Vela.md","x":-40,"y":-840,"width":400,"height":400,"color":"#00ff91"},
+		{"id":"d85068828f9702f7","type":"file","file":"04 POIs/Gridwalker (ZIU-108).md","x":420,"y":-1280,"width":380,"height":400,"color":"2"}
+	],
+	"edges":[
+		{"id":"2dd13531e5c398a3","fromNode":"8bb5ed3c032dcb67","fromSide":"top","toNode":"c0af010d0a18d62a","toSide":"right","label":"Observes"},
+		{"id":"a2f09d406de9388e","fromNode":"d3ab0fc582600e5d","fromSide":"right","toNode":"d85068828f9702f7","toSide":"left","label":"Created"},
+		{"id":"eb0c2bd2fe3b67f6","fromNode":"8bb5ed3c032dcb67","fromSide":"right","toNode":"d85068828f9702f7","toSide":"top","label":"Observes"},
+		{"id":"2a59346b5143fc07","fromNode":"bd32a0490749ef86","fromSide":"left","toNode":"d3ab0fc582600e5d","toSide":"bottom","label":"Former employee"},
+		{"id":"d81833527515fa11","fromNode":"e791458a5908f160","fromSide":"top","toNode":"f527f20214d6632e","toSide":"bottom","label":"Works for"},
+		{"id":"5549dc0905f52d58","fromNode":"f527f20214d6632e","fromSide":"left","toNode":"c0af010d0a18d62a","toSide":"bottom"},
+		{"id":"e5ba7f178bfcb638","fromNode":"d3ab0fc582600e5d","fromSide":"right","toNode":"1166818b14c8c7ee","toSide":"top"},
+		{"id":"b1a050dd0b7dce34","fromNode":"d3ab0fc582600e5d","fromSide":"left","toNode":"2d2e9b8d06e7d8ce","toSide":"right"},
+		{"id":"219bc10a58667c96","fromNode":"f30e75a911d2c7f0","fromSide":"top","toNode":"d3ab0fc582600e5d","toSide":"left"},
+		{"id":"cf8f8ac2322775ed","fromNode":"f30e75a911d2c7f0","fromSide":"top","toNode":"b00e117983e82f7b","toSide":"right"}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"8fadfc596361740a","type":"group","x":200,"y":-840,"width":2880,"height":1680,"label":"character devlopments/arcs"},
+		{"id":"24e1f298c7218cf6","type":"text","text":"General board for Disc 1.","x":-125,"y":-30,"width":250,"height":110},
+		{"id":"9beecfe543d96f0b","type":"text","text":"gridw\n\nnotes:\n- gridw & xisal are better plural rep than most hollywood movies despite not being plural\n- decent audience surrogate\n- very cool cause he has a sword (that's a gridw thing) and uses cards (that's a xisal thing)\n- doesn't like zip, only collects information because he's forced to. (or well xisal does it, because xisal just loooves those logs. that's why all the shown events of the story & battles are replayable.) but i guess he's like good at it so the protag team get some clout for it\n- that same thread of apathy also extends to other people occasionally. well it's also a self-isolation thing. (like- imagine this. everything you love is gone. youre plopped into a world 200 years in the future you know nothing about. the average person is gonna be depressed !) it's quite clamplicated and it's challenged all throughout disc 1, and that's one of the things he develops on","x":220,"y":-400,"width":340,"height":340},
+		{"id":"038d9ff82ccf048b","type":"text","text":"sissid\nnewbie retrieval unit. ","x":220,"y":-30,"width":340,"height":350},
+		{"id":"5e8ca6b7ed90a7b1","type":"text","text":"# Prelude\n\nprelude is mostly just introductions to everyone. of course, we get some quick character development right off the bat (cause why not), but it's mostly just setup. we have to introduce a lot of things in prelude. sigh\nthings that happen:\n- xisal has been observing asola for a month now\n- gridwalker has been retrieved\n- xenoi has broken out \n- retrieval team is formed","x":627,"y":-800,"width":353,"height":380},
+		{"id":"a00bb8d4308f6284","type":"text","text":"# Deep Soa Retrieval","x":1040,"y":-800,"width":360,"height":380},
+		{"id":"05f20ea843f2f6c9","type":"text","text":"this is when \n- gridw meets his very own xisal. amazing. \n- gridw gets introduced to the world of zip\n- gridw is introduced to card combat (interestingly, nobody sees combat like this on their end. it's a xisal thing)\n- gridw meets friemds : ) and by friend s i mean the besties. the oomfs if you will.\n","x":627,"y":-400,"width":353,"height":340},
+		{"id":"2b04885b29a0d5a7","type":"text","text":"\n","x":1040,"y":-400,"width":353,"height":340},
+		{"id":"c5fec95b1d74ac03","type":"text","text":"","x":1440,"y":-400,"width":360,"height":340},
+		{"id":"11417f6e0db85a28","type":"text","text":"","x":627,"y":360,"width":353,"height":350},
+		{"id":"7dfdfb06e15c31f7","type":"text","text":"vela\nteam lead\nex senior engineer from department of robotics transferring to department of space exploration to form a retrieval team. \nnotes:\n- big tie-ins with stardip's whole shebang, due to the whole finding purpose thing, plus literally being friends who worked on the xenoi proj\n- mentor figure\n- could feel a little guilty about xenoi breaking out, due to leaving abt a month prior","x":220,"y":360,"width":340,"height":350},
+		{"id":"7e4986ec849d0e2e","type":"text","text":"# Section 3","x":1440,"y":-800,"width":360,"height":380},
+		{"id":"f47c319907e71d38","type":"text","text":"# Section 4","x":1840,"y":-800,"width":360,"height":380},
+		{"id":"9709da6ea3fffc93","type":"text","text":"# Section 5","x":2240,"y":-800,"width":360,"height":380},
+		{"id":"4b1a401f9fdf6921","type":"text","text":"# Resolution","x":2640,"y":-800,"width":360,"height":380},
+		{"id":"1c636b025db0060a","type":"text","text":"","x":627,"y":-30,"width":353,"height":350},
+		{"id":"e82f61ffee69099d","type":"text","text":"","x":1040,"y":-30,"width":353,"height":350},
+		{"id":"cfcd465dac588a8d","type":"text","text":"","x":1447,"y":-30,"width":353,"height":350}
+	],
+	"edges":[
+		{"id":"a9585e0debb53921","fromNode":"9beecfe543d96f0b","fromSide":"right","toNode":"05f20ea843f2f6c9","toSide":"left"},
+		{"id":"28910cae9359507d","fromNode":"7dfdfb06e15c31f7","fromSide":"right","toNode":"11417f6e0db85a28","toSide":"left"},
+		{"id":"8bd6b91390e48b13","fromNode":"038d9ff82ccf048b","fromSide":"right","toNode":"1c636b025db0060a","toSide":"left"},
+		{"id":"ad94a490d5c9996f","fromNode":"05f20ea843f2f6c9","fromSide":"right","toNode":"2b04885b29a0d5a7","toSide":"left"},
+		{"id":"9e45ded1f6446738","fromNode":"2b04885b29a0d5a7","fromSide":"right","toNode":"c5fec95b1d74ac03","toSide":"left"}
+	]
+}

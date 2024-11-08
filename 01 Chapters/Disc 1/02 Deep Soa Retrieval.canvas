@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"374980cc156d5531","type":"group","x":2325,"y":-1060,"width":2275,"height":1420,"label":"timeline"},
+		{"id":"80dad3c340a32982","type":"group","x":-880,"y":-1060,"width":1640,"height":1840,"label":"moodboard"},
+		{"id":"d8c2138491f414a5","type":"group","x":1380,"y":-1060,"width":810,"height":600,"color":"#33a7ff","label":"ziu sendouts"},
+		{"id":"306febefaa952b75","type":"group","x":880,"y":-1060,"width":440,"height":1020,"color":"5","label":"soa"},
+		{"id":"d99f728c8be07413","type":"group","x":1380,"y":-400,"width":810,"height":400,"color":"#ff5900","label":"Playable Team"},
+		{"id":"0dfa02282411ef29","type":"group","x":1380,"y":80,"width":810,"height":360,"color":"4","label":"Soa Ecology Team"},
+		{"id":"70f73bb6b67bf266","type":"file","file":"Media/Soa_Cover.png","x":900,"y":-880,"width":400,"height":400,"color":"#10436a"},
+		{"id":"4f68534cdf47e848","type":"file","file":"03 Locations/Soa.md","x":900,"y":-460,"width":400,"height":400,"color":"5"},
+		{"id":"84324cac95c17aa6","type":"text","text":"theme of soa. collab with amfiviolia.","x":900,"y":-1040,"width":400,"height":80},
+		{"id":"01f4d99b3d0203ee","type":"file","file":"04 POIs/Droplet (ZIU-105).md","x":1380,"y":-1060,"width":400,"height":600,"color":"#00ffee"},
+		{"id":"caa4ea83d3c170a1","type":"file","file":"Media/2024-09-11 2132.mp3","x":900,"y":-940,"width":400,"height":42},
+		{"id":"bdc2defe973d5c73","type":"file","file":"04 POIs/Chromas.md","x":1800,"y":-1060,"width":390,"height":600,"color":"#001eff"},
+		{"id":"d5868855c3a537ff","type":"text","text":"Arrive at Soa","x":2360,"y":-1020,"width":250,"height":60},
+		{"id":"56ad4c90c8a51447","type":"file","file":"04 POIs/Vela.md","x":1380,"y":-180,"width":400,"height":140,"color":"#00ffbf"},
+		{"id":"291ab6948e9d6b75","type":"file","file":"04 POIs/Sissid.md","x":1800,"y":-180,"width":390,"height":140,"color":"5"},
+		{"id":"ca8adaf8f0abaf7b","type":"file","file":"04 POIs/Gridwalker (ZIU-108).md","x":1580,"y":-360,"width":380,"height":160,"color":"2"},
+		{"id":"76accc85c01a35d9","type":"text","text":"","x":3440,"y":-1020,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"a357d9332ed4233d","fromNode":"caa4ea83d3c170a1","fromSide":"bottom","toNode":"70f73bb6b67bf266","toSide":"top"},
+		{"id":"f7d3ac57f36f8672","fromNode":"84324cac95c17aa6","fromSide":"bottom","toNode":"caa4ea83d3c170a1","toSide":"top"},
+		{"id":"decd5c80990085a6","fromNode":"ca8adaf8f0abaf7b","fromSide":"top","toNode":"01f4d99b3d0203ee","toSide":"bottom","color":"6","label":"knows"}
+	]
+}

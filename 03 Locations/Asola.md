@@ -1,1 +1,3 @@
-**Asola** is a planet
+**Asola** is the only naturally habitable planet in the Ter System. 
+
+# History

@@ -3,9 +3,9 @@
   "theme": "obsidian",
   "interfaceFontFamily": "FranklinGothic URW",
   "monospaceFontFamily": "PT Mono",
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
   "translucency": false,
-  "cssTheme": "Obsidianite",
+  "cssTheme": "ITS Theme",
   "textFontFamily": "FranklinGothic URW"
 }
